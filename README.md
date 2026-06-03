@@ -2,7 +2,7 @@
 
 
 
-This project detects **spam emails** using an **Artificial Neural Network (ANN)**.  
+## This project detects **spam emails** using an **Artificial Neural Network (ANN)**.  
 
 
 
